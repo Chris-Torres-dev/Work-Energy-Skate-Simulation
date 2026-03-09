@@ -34,4 +34,3 @@ This project helped me practice combining **logic, visuals, and user input** in 
 - This is a class project and still a work in progress
 - Code and visuals can be improved over time
 - Built mainly for learning and experimentation
--PS MOSTLY JUST VIBE CODED 
